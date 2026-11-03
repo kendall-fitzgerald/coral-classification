@@ -1,8 +1,7 @@
-# Coral Reef Habitat Mapping with 
-# Open-Source GIS and Google Earth Engine
+# Coral Reef Habitat Mapping with Open-Source GIS and Google Earth Engine
 
 <p align="center">
-  <img src="CoralHabitatClassMap1.png" alt="Two-panel map of benthic habitat and geomorphic zones, Monte Cristi, Dominican Republic" width="800">
+  <img src="CoralHabitatClassMap1.png" alt="Two-panel map of benthic habitat and geomorphic zones, Monte Cristi, Dominican Republic" width="600">
 </p>
 
 <p align="center">
@@ -41,13 +40,13 @@ This project was completed during my Duke MEM degree and explores the Allen Cora
 ## Key Findings
 **Most widespread habitat and reef-zone combinations, Monte Cristi**
 
-| Rank | Benthic Habitat | Geomorphic Zone | Area (km²) |
-|------|-----------------|-----------------|------------|
-|   1  |    Rock         |                 |            |
-|   2  |   Coral/Algae   |                 |            |
-|   3  |    Rock         |                 |            |
-|   4  |    Seagrass     |                 |            |
-|   5  |   Coral/Algae   |                 |            |
+| Rank | Benthic Habitat | Geomorphic Zone     | Area (km²) |
+|------|-----------------|---------------------|------------|
+|   1  |    Rock         | Outer Reef Flat     |            |
+|   2  |   Coral/Algae   |  Reef Slope         |            |
+|   3  |    Rock         |Terrestrial Reef Flat|            |
+|   4  |    Seagrass     |   Inner Reef Flat   |            |
+|   5  |   Coral/Algae   | Sheltered Reef Slope|            |
 
 
 
