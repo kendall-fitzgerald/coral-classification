@@ -6,7 +6,15 @@
 </p>
 
 <p align="center">
-  <em>Benthic habitat (left) and geomorphic zones (right) along the northern coast of the Dominican Republic, Parque Nacional Monte Cristi.</em>
+  <em>Benthic habitat (left) and geomorphic zones (right) along the northern coast of the Dominican Republic, Monte Cristi National Park.</em>
+</p>
+
+<p align="center">
+  <img src="CoralHabitatClassMap2.png" alt="Benthic habitat map of [MPA name]" width="600">
+</p>
+
+<p align="center">
+  <em>Benthic habitat within Cahuita National Park, Costa Rica.</em>
 </p>
 
 ## Overview
