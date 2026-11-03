@@ -42,11 +42,11 @@ This project was completed during my Duke MEM degree and explores the Allen Cora
 
 | Rank | Benthic Habitat | Geomorphic Zone     | Area (km²) |
 |------|-----------------|---------------------|------------|
-|   1  |    Rock         | Outer Reef Flat     |            |
-|   2  |   Coral/Algae   |  Reef Slope         |            |
-|   3  |    Rock         |Terrestrial Reef Flat|            |
-|   4  |    Seagrass     |   Inner Reef Flat   |            |
-|   5  |   Coral/Algae   | Sheltered Reef Slope|            |
+|   1  |    Rock         | Outer Reef Flat     |  7.874     |
+|   2  |   Coral/Algae   |  Reef Slope         |  6.879     |
+|   3  |    Rock         |Terrestrial Reef Flat|  4.431     |
+|   4  |    Seagrass     |   Inner Reef Flat   |  3.882     |
+|   5  |   Coral/Algae   | Sheltered Reef Slope|  2.919     |
 
 
 
