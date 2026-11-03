@@ -1,4 +1,5 @@
-# Coral Reef Habitat Mapping with Open-Source GIS and Google Earth Engine
+# Coral Reef Habitat Mapping with 
+# Open-Source GIS and Google Earth Engine
 
 <p align="center">
   <img src="CoralHabitatClassMap1.png" alt="Two-panel map of benthic habitat and geomorphic zones, Monte Cristi, Dominican Republic" width="800">
