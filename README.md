@@ -59,7 +59,19 @@ The tables below show results for each classification. Table 1 ranks benthic and
 |   4  |    Seagrass     |   Inner Reef Flat   |  3.882     |
 |   5  |   Coral/Algae   | Sheltered Reef Slope|  2.919     |
 
-<em>Table 1: 5 most widespread habitat and reef-zone combinations, Monte Cristi</em>
+<em>Table 1 - 5 most widespread habitat and reef-zone combinations, Monte Cristi</em>
+
+### Cahuita National Park
+
+| Benthic Habitat | Area (km²) |
+|-----------------|------------|
+| Seagrass        |  0.094     |
+| Sand            |  0.452     |
+| Rubble          |  0.305     |
+| Rock            |   0.840    |
+| Coral/Algae     |   2.134    |
+
+<em>Table 2 - Proportion of benthic habitat types, Cahuita</em>
 
 
 
