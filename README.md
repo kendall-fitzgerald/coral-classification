@@ -47,7 +47,7 @@ This project was completed during my Duke MEM degree and explores the Allen Cora
   with the workflow documented in ModelBuilder
 
 ## Key Findings
-**5 most widespread habitat and reef-zone combinations, Monte Cristi**
+**Table 1: 5 most widespread habitat and reef-zone combinations, Monte Cristi**
 
 | Rank | Benthic Habitat | Geomorphic Zone     | Area (km²) |
 |------|-----------------|---------------------|------------|
@@ -57,9 +57,11 @@ This project was completed during my Duke MEM degree and explores the Allen Cora
 |   4  |    Seagrass     |   Inner Reef Flat   |  3.882     |
 |   5  |   Coral/Algae   | Sheltered Reef Slope|  2.919     |
 
-<p align="center">
-  <img src="CoralHabitatClassMap2.png" alt="Benthic habitat map of [MPA name]" width="600">
-</p>
+
+**Table 1: 5 most widespread habitat and reef-zone combinations, Monte Cristi**
+
+
+
 
 
 
