@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <em>Benthic habitat (left) and geomorphic zones (right) along the northern coast of the Dominican Republic, Monte Cristi National Park.</em>
+  <em>Map 1: Benthic habitat (left) and geomorphic zones (right) along the northern coast of the Dominican Republic, Monte Cristi National Park.</em>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <em>Benthic habitat within Cahuita National Park, Costa Rica.</em>
+  <em>Map 2: Benthic habitat within Cahuita National Park, Costa Rica.</em>
 </p>
 
 ## Overview
@@ -47,7 +47,9 @@ This project was completed during my Duke MEM degree and explores the Allen Cora
   with the workflow documented in ModelBuilder
 
 ## Key Findings
-**Table 1: 5 most widespread habitat and reef-zone combinations, Monte Cristi**
+The tables below show results for each classification. Table 1 ranks benthic and geomorphic habitat combinations within Monte Cristi National Park from 1 to 5 and table 2 shows the proportion of benthic habitat types of the coral reef within Cahuita National Park in ascending order.
+
+### Monte Cristi National Park 
 
 | Rank | Benthic Habitat | Geomorphic Zone     | Area (km²) |
 |------|-----------------|---------------------|------------|
@@ -57,8 +59,11 @@ This project was completed during my Duke MEM degree and explores the Allen Cora
 |   4  |    Seagrass     |   Inner Reef Flat   |  3.882     |
 |   5  |   Coral/Algae   | Sheltered Reef Slope|  2.919     |
 
+<em>Table 1: 5 most widespread habitat and reef-zone combinations, Monte Cristi</em>
 
-**Table 1: 5 most widespread habitat and reef-zone combinations, Monte Cristi**
+
+
+
 
 
 
